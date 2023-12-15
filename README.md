@@ -113,9 +113,9 @@ The dataset was obtained from the [Kaggle Walmart Sales Forecasting Competition]
 
 ## Revenue And Profit Calculations
 
-$$ COGS = unitsPrice * quantity $$
+$COGS = unitsPrice * quantity$
 
-$ VAT = 5\% * COGS $
+$VAT = 5\% * COGS$
 
 $VAT$ is added to the $COGS$ and this is what is billed to the customer.
 
